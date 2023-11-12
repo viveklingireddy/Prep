@@ -17,7 +17,46 @@ they run on servers like VM ware, Openstack etc.
 - Everything is manual, So what happens with manual? The delivery takes time because every one needs to collabrate with each other to make it run smooth.
 - So, In order to decrease the production process, Automation came into a place to fill the void of rapid delivery.
 Manual Testing can be improvised by Automation Testing by giving testcases to test on applications.
-- ![image](https://github.com/viveklingireddy/Prep/assets/67540715/029037d2-ae04-426d-9176-3aa86942c960)
+
+/
+X
+
+tile
+
+tryin
+
+moniliformin
+
+integration
+usucapion
+
+	Orense
+
+liny
+
+	Dermopalatine
+
+waterfall Model
+
+Twit  cede
+
++ + environment
+
+	→System
+•aittaritifacts
+em
+
+imitable Find Rehire
+
+configure
+Silver
+
+Thinking
+
+mitt
+
+Tuite
+![image](https://github.com/viveklingireddy/Prep/assets/67540715/357cc917-7a1f-4abb-a33c-465892adb08c)
 
 - In the Process of improving Delivery  *DEVOPS*  culture happen to come in  place.
 DEVOPS = DEVELOPMENT + OPERATIONS
