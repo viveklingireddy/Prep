@@ -1,26 +1,27 @@
-Bash (Bourne-Again Shell) is a powerful command-line interface for Unix-like operating systems, including Linux. Here are some commonly used Bash commands:
+Bash (Bourne-Again Shell) is a powerful command-line interface for Unix-like operating systems,  
+including Linux. Here are some commonly used Bash commands:
 
-1. **Navigation and File Management:**
-   - `cd`: Change directory.
-   - `ls`: List files and directories in the current directory.
-   - `pwd`: Print the working directory (current directory).
-   - `touch`: Create an empty file.
-   - `mkdir`: Create a new directory.
-   - `rm`: Remove files or directories.
-   - `cp`: Copy files or directories.
-   - `mv`: Move or rename files or directories.
+1. # Navigation and File Management:
+   - cd: Change directory.
+   - ls: List files and directories in the current directory.
+   - pwd: Print the working directory (current directory).
+   - touch: Create an empty file.
+   - mkdir: Create a new directory.
+   - rm: Remove files or directories.
+   - cp: Copy files or directories.
+   - mv: Move or rename files or directories.
 
-2. **File Viewing and Editing:**
-   - `cat`: Concatenate and display file content.
-   - `more` or `less`: View text files one screen at a time.
-   - `nano` or `vim`: Text editors for creating and editing files.
-   - `head` and `tail`: Display the beginning or end of a file.
+2. # File Viewing and Editing:
+   - cat: Concatenate and display file content.
+   - more or less: View text files one screen at a time.
+   - nano or vim: Text editors for creating and editing files.
+   - head and tail: Display the beginning or end of a file.
 
-3. **File Permissions:**
-   - `chmod`: Change file permissions.
-   - `chown`: Change file ownership.
+3. File Permissions:
+   - chmod: Change file permissions. -rwx--
+   - chown: Change file ownership.
 
-4. **Process Management:**
+4. #Process Management:
    - `ps`: List running processes.
    - `top`: Monitor system processes and resource usage.
    - `kill`: Terminate processes.
