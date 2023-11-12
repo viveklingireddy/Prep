@@ -12,10 +12,13 @@ A Devops engineer  fasten up the process of delivering the application by reduci
 - Tester / QA tests the application on server
 - Build and Release Engineer checks application on server and promotes to next level Pre-prod/ *Stagging*
    (productionenvironment before actual release /live product stage).
--There were no cloud environments back then to deploy application by using ec2, elastic bean etc.
+- There were no cloud environments back then to deploy application by using ec2, elastic bean etc.
 they run on servers like VM ware, Openstack etc.
-Everything is manual, So what happens with manual? The delivery takes time because every one needs to collabrate with each other to make it run smooth.
-So, In order to decrease the production process, Automation came into a place to fill the void of rapid delivery.
+- Everything is manual, So what happens with manual? The delivery takes time because every one needs to collabrate with each other to make it run smooth.
+- So, In order to decrease the production process, Automation came into a place to fill the void of rapid delivery.
 Manual Testing can be improvised by Automation Testing by giving testcases to test on applications.
-In the Process of improving Delivery has *DEVOPS* taken place.
+- ![image](https://github.com/viveklingireddy/Prep/assets/67540715/029037d2-ae04-426d-9176-3aa86942c960)
+
+- In the Process of improving Delivery  *DEVOPS*  culture happen to come in  place.
 DEVOPS = DEVELOPMENT + OPERATIONS
+
