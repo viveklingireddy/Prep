@@ -1,4 +1,5 @@
 # Prep
 Add Ingredients Everyday  
-#BASH Scripting 
-[bash]()
+
+# BASH Scripting 
+[bash](BashScriptingNotes.md)
