@@ -18,42 +18,7 @@ they run on servers like VM ware, Openstack etc.
 - So, In order to decrease the production process, Automation came into a place to fill the void of rapid delivery.
 Manual Testing can be improvised by Automation Testing by giving testcases to test on applications.
 
-/
-X
 
-tile
-
-tryin
-
-moniliformin
-
-integration
-usucapion
-
-	Orense
-
-liny
-
-	Dermopalatine
-
-waterfall Model
-
-Twit  cede
-
-+ + environment
-
-	→System
-•aittaritifacts
-em
-
-imitable Find Rehire
-
-configure
-Silver
-
-Thinking
-
-mitt
 
 Tuite
 ![image](https://github.com/viveklingireddy/Prep/assets/67540715/357cc917-7a1f-4abb-a33c-465892adb08c)
