@@ -18,9 +18,6 @@ they run on servers like VM ware, Openstack etc.
 - So, In order to decrease the production process, Automation came into a place to fill the void of rapid delivery.
 Manual Testing can be improvised by Automation Testing by giving testcases to test on applications.
 
-
-
-Tuite
 ![image](https://github.com/viveklingireddy/Prep/assets/67540715/357cc917-7a1f-4abb-a33c-465892adb08c)
 
 - In the Process of improving Delivery  *DEVOPS*  culture happen to come in  place.
