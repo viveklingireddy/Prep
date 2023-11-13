@@ -1,6 +1,7 @@
 ## SDLC 
 - #### Software Development Life Cycle
-- [!image](<img width="802" alt="image" src="https://github.com/viveklingireddy/Prep/assets/67540715/23363bac-4aad-438c-ae81-961673342e1c">)
+- [!image](https://static.wixstatic.com/media/879dca_dbbbcbf7e6564025a4afb533a1e6d622~mv2.png/v1/fill/w_1000,h_541,al_c,q_90,usm_0.66_1.00_0.01/879dca_dbbbcbf7e6564025a4afb533a1e6d622~mv2.png)
+- [SDLC](https://aws.amazon.com/what-is/sdlc/)
 - #### PLANNING PHASE
 - In planning phase, All the documentation of Client's requirements were gathered and documented.
 - #### DESIGNING PHASE
@@ -11,11 +12,11 @@
    User- Acceptance testing etc. Deployment and Release to Production.
 - Main Goal of Devops Engineer is to Fasten Up theese phases to Continously Deliver the Code. Automation comes into play for
   Improvising Efficiency of this phases. 
-- [!Image](<img width="803" alt="image" src="https://github.com/viveklingireddy/Prep/assets/67540715/92e3c958-901a-4401-ab96-1d2e7ecfdd18">)
+- [!Image](https://svprojectmanagement.com/wp-content/uploads/2022/11/Resized-Agile-SDLC.png)
 - ### What is involved in the Automation then?
 - In the Process of Automation many tools comes in picture such as **Jenkins** (for Building CI/CD ), Code quality check (**SonarQube**), Docker, Kubernetes (**Containers** / **Orchestration**), **Terraform** (IAC) , CodeMonitoring Tools (**Promotheus && Grafana**), etc.
 -  ### PIPELINE STAGES (AWS/ CI CD)
--  [!Image]("E:\awspipeline.jpg")
+-  [!Image](https://d1.awsstatic.com/products/codepipeline/Product-Page-Diagram_AWS-CodePipeline.4a1bea38d3c8d3b2c1384dd0a7d2a858f4350471.jpg)
 
 - ## What is Server?
 - In Laymen terms, Server is one who serves something, providing some service.
@@ -30,8 +31,9 @@
 - Software server are Application that (serve Piece of code/ Data bases)**host** and client connects to server through Ip 
 Address and  requests for services. Each Server(Device) has its own Ip.
 - Now Server comes into play. Server nows servs what ?. A pieace of code/ application/ Data over to me by what Internet.
--   
-
+-   [!Image](https://cuehosting.com/blog/wp-content/uploads/2018/11/server.jpg)
+-[!Image](https://miro.medium.com/v2/resize:fit:1121/1*yw7D8njef49dBsR15wMY9g.png)
+-   [!Image](https://www.oreilly.com/api/v2/epubs/9781789349863/files/assets/5d678947-2cad-44df-a4a4-5e78fd50fb52.png)
 -   
 -   What are fixs, bugs, down time etc.
 -   Fixes are nothing but corrections, mistake removal steps. Removing erros.
