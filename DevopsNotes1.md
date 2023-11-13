@@ -1,6 +1,6 @@
 ## SDLC 
 - #### Software Development Life Cycle
-- [!image](https://static.wixstatic.com/media/879dca_dbbbcbf7e6564025a4afb533a1e6d622~mv2.png/v1/fill/w_1000,h_541,al_c,q_90,usm_0.66_1.00_0.01/879dca_dbbbcbf7e6564025a4afb533a1e6d622~mv2.png)
+- [SDLC]![879dca_dbbbcbf7e6564025a4afb533a1e6d622~mv2](https://github.com/viveklingireddy/Prep/assets/67540715/37a1c8a8-01c6-4ae3-a090-27a417e96f0f)
 - [SDLC](https://aws.amazon.com/what-is/sdlc/)
 - #### PLANNING PHASE
 - In planning phase, All the documentation of Client's requirements were gathered and documented.
@@ -16,7 +16,8 @@
 - ### What is involved in the Automation then?
 - In the Process of Automation many tools comes in picture such as **Jenkins** (for Building CI/CD ), Code quality check (**SonarQube**), Docker, Kubernetes (**Containers** / **Orchestration**), **Terraform** (IAC) , CodeMonitoring Tools (**Promotheus && Grafana**), etc.
 -  ### PIPELINE STAGES (AWS/ CI CD)
--  [!Image](https://d1.awsstatic.com/products/codepipeline/Product-Page-Diagram_AWS-CodePipeline.4a1bea38d3c8d3b2c1384dd0a7d2a858f4350471.jpg)
+
+![Product-Page-Diagram_AWS-CodePipeline 4a1bea38d3c8d3b2c1384dd0a7d2a858f4350471](https://github.com/viveklingireddy/Prep/assets/67540715/bcbc87b9-f5a9-4332-bc55-3b5e430b3480)
 
 - ## What is Server?
 - In Laymen terms, Server is one who serves something, providing some service.
