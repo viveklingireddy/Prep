@@ -1,7 +1,7 @@
 ## SDLC 
 - #### Software Development Life Cycle
 - [SDLC]![879dca_dbbbcbf7e6564025a4afb533a1e6d622~mv2](https://github.com/viveklingireddy/Prep/assets/67540715/37a1c8a8-01c6-4ae3-a090-27a417e96f0f)
-- [SDLC](https://aws.amazon.com/what-is/sdlc/)
+- [SDLC](https://aws.amazon.com/what-is/sdlc){:target="_blank"}
 - #### PLANNING PHASE
 - In planning phase, All the documentation of Client's requirements were gathered and documented.
 - #### DESIGNING PHASE
@@ -12,7 +12,8 @@
    User- Acceptance testing etc. Deployment and Release to Production.
 - Main Goal of Devops Engineer is to Fasten Up theese phases to Continously Deliver the Code. Automation comes into play for
   Improvising Efficiency of this phases. 
-- [!Image](https://svprojectmanagement.com/wp-content/uploads/2022/11/Resized-Agile-SDLC.png)
+- ![Resized-Agile-SDLC](https://github.com/viveklingireddy/Prep/assets/67540715/a7cc2c00-a123-4806-885d-9009755ac6eb)
+
 - ### What is involved in the Automation then?
 - In the Process of Automation many tools comes in picture such as **Jenkins** (for Building CI/CD ), Code quality check (**SonarQube**), Docker, Kubernetes (**Containers** / **Orchestration**), **Terraform** (IAC) , CodeMonitoring Tools (**Promotheus && Grafana**), etc.
 -  ### PIPELINE STAGES (AWS/ CI CD)
@@ -32,10 +33,11 @@
 - Software server are Application that (serve Piece of code/ Data bases)**host** and client connects to server through Ip 
 Address and  requests for services. Each Server(Device) has its own Ip.
 - Now Server comes into play. Server nows servs what ?. A pieace of code/ application/ Data over to me by what Internet.
--   [!Image](https://cuehosting.com/blog/wp-content/uploads/2018/11/server.jpg)
--[!Image](https://miro.medium.com/v2/resize:fit:1121/1*yw7D8njef49dBsR15wMY9g.png)
--   [!Image](https://www.oreilly.com/api/v2/epubs/9781789349863/files/assets/5d678947-2cad-44df-a4a4-5e78fd50fb52.png)
--   
+- ![server](https://github.com/viveklingireddy/Prep/assets/67540715/52b0b9de-d3f6-4846-8838-e3c35f97db12)
+- ![1_yw7D8njef49dBsR15wMY9g](https://github.com/viveklingireddy/Prep/assets/67540715/c5c5c181-8f11-4b14-8735-7436f78bb550)
+
+-   ![5d678947-2cad-44df-a4a4-5e78fd50fb52](https://github.com/viveklingireddy/Prep/assets/67540715/eaacbff9-1bed-47ec-bb59-94661361c3ea)
+
 -   What are fixs, bugs, down time etc.
 -   Fixes are nothing but corrections, mistake removal steps. Removing erros.
 -   Bugs are like errors occur due to some vunerbility, code errors that damges process, interrupt.
@@ -44,7 +46,7 @@ Address and  requests for services. Each Server(Device) has its own Ip.
 -   Virtual means it exists but not Physically available. 
 -   Ex: Virtual Library. Here you can access to books, audio files through medium called Online. So you can read a book Online but can't have it in your hand.
 -   Neo Banking: You can avail all the banking services that include transcations, Online services etc. you can physicall have a bank there.
--   ## Virtualization:
+-   ## [Virtualization:](https://aws.amazon.com/what-is/virtualization/#:~:text=Virtualization%20is%20technology%20that%20you,on%20a%20single%20physical%20machine.){:target="_blank"}
 -   The process of making something have in Virtual or **Technology** that can *replicate* an existing physical infrastructure available online / Virtual. Ex: Operating Systems (Virtual Machines), Storage services(**S3** Bucket), etc.
 -   ##### How to access Virtual of Any system ?
 -   Any virtual version can be operated through a physical medium.
