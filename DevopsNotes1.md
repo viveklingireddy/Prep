@@ -1,7 +1,7 @@
 ## SDLC 
 - #### Software Development Life Cycle
 - [SDLC]![879dca_dbbbcbf7e6564025a4afb533a1e6d622~mv2](https://github.com/viveklingireddy/Prep/assets/67540715/37a1c8a8-01c6-4ae3-a090-27a417e96f0f)
-- [SDLC](https://aws.amazon.com/what-is/sdlc){:target="_blank"}
+- [SDLC](https://aws.amazon.com/what-is/sdlc) {:target="_blank"}
 - #### PLANNING PHASE
 - In planning phase, All the documentation of Client's requirements were gathered and documented.
 - #### DESIGNING PHASE
@@ -46,7 +46,7 @@ Address and  requests for services. Each Server(Device) has its own Ip.
 -   Virtual means it exists but not Physically available. 
 -   Ex: Virtual Library. Here you can access to books, audio files through medium called Online. So you can read a book Online but can't have it in your hand.
 -   Neo Banking: You can avail all the banking services that include transcations, Online services etc. you can physicall have a bank there.
--   ## [Virtualization:](https://aws.amazon.com/what-is/virtualization/#:~:text=Virtualization%20is%20technology%20that%20you,on%20a%20single%20physical%20machine.){:target="_blank"}
+-   ## [Virtualization:](https://aws.amazon.com/what-is/virtualization/#:~:text=Virtualization%20is%20technology%20that%20you,on%20a%20single%20physical%20machine.) {:target="_blank"}
 -   The process of making something have in Virtual or **Technology** that can *replicate* an existing physical infrastructure available online / Virtual. Ex: Operating Systems (Virtual Machines), Storage services(**S3** Bucket), etc.
 -   ##### How to access Virtual of Any system ?
 -   Any virtual version can be operated through a physical medium.
