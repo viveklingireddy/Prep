@@ -90,5 +90,7 @@ Type 2 hypervisors
 A type 2 hypervisor runs as an application on computer hardware with an existing operating system. Use this type of hypervisor when running multiple operating systems on a single machine.   
 
 ---
+ ![Image](https://insights.sei.cmu.edu/media/images/multicorevirtualization_firesm.max-1280x720.format-webp.webp)
+ 
 ### [Types of Virtualizations :](TypesOfVirtualization.md)
 
