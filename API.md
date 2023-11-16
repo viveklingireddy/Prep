@@ -19,7 +19,7 @@ How data in JSON format is transffered to client, it is through internet using p
 -- API's are set of rules that are used  to enable Communication  between two Software Components.  
 
 In Software terminology, The application sending request is Client and application send response is server.  
-![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.g2.com%2Farticles%2Fwhat-is-an-api&psig=AOvVaw02nRCGr50oxt1VUISXDPfi&ust=1700011875225000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDenPGrwoIDFQAAAAAdAAAAABAR)  
+![api](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.g2.com%2Farticles%2Fwhat-is-an-api&psig=AOvVaw02nRCGr50oxt1VUISXDPfi&ust=1700011875225000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDenPGrwoIDFQAAAAAdAAAAABAR)  
 
 #### Types of API's :  
 API's has different functionalities based on their function's there categorized.  
@@ -27,7 +27,7 @@ API's has different functionalities based on their function's there categorized.
 ### SOAP API:  SIMPLE OBJECT ACCESS PROTOCOL  
 
 * It uses XML to Interract with both Client and Server.  
-[!Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.atatus.com%2Fblog%2Fsoap-vs-rest-whats-the-difference%2F&psig=AOvVaw0M9caJaA275qERhRc_MK2s&ust=1700014806454000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMj-7ua2woIDFQAAAAAdAAAAABAR)  
+![SOAP](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.atatus.com%2Fblog%2Fsoap-vs-rest-whats-the-difference%2F&psig=AOvVaw0M9caJaA275qERhRc_MK2s&ust=1700014806454000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMj-7ua2woIDFQAAAAAdAAAAABAR)  
 
 ### REST API : Representational State Transfer API  
 * REST API has uses HTTP request that has some functions Called `GET`, `PUT`, `DELETE` `POST` to interract/ perform  `CRUD` Operations on Server's DataBase.  
@@ -57,5 +57,5 @@ Status Codes are 3 digit number that describes status of your API call.
  * API end points should be Authenticated, make not vunerable.  
  API on creation should be tested for server responses one such tool we use test is post man. 
  * You can buy new web API's on  online platform like RAPID API, API LIST etc. There free PUBLIC API's too.  
- 
 
+ - End Points are the url to particular source. (Remember the Store Kurkure)
