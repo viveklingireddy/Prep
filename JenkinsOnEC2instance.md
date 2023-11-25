@@ -7,7 +7,7 @@
 ---
 Scroll Down click on Security   
 
-![SEcurity](E:\Projects\DevOps\Prep\Images\image-1.png)
+![SEcurity](Images/image-1.png)
 ###### Click on  Security Groups
 - Edit InBound Rules to set Access to port 8080 --> Jenkins port Number  
 
