@@ -6,7 +6,8 @@
 [AWS DevOps Learning Path](https://aws.amazon.com/developer/learning/devops-on-aws/?ref=dc&id=tp1)
 [AWS Tutorial: Deploy WorkSpaces with One-Way Trust](https://aws.amazon.com/tutorials/deploy-workspaces-one-way-trust/?ref=dc&id=tutorials)
 
-- terraform included
+- terraform included  
+
 [AWS Community Tutorial: Securely Access Resources with IAM Service Roles](https://community.aws/tutorials/practical-cloud-guide/securely-access-resources-with-iam-service-roles?ref=dc&id=dc-handson)
 
 [AWS Community Tutorial: Learning AWS IAM by Writing Your First Policies for Groups and Users](https://community.aws/tutorials/practical-cloud-guide/learning-aws-iam-by-writing-your-first-policies-for-groups-and-users?ref=dc&id=dc-handson)
@@ -29,8 +30,7 @@
 
 [AWS Tutorial: basic lambda function Run Serverless Code](https://aws.amazon.com/tutorials/run-serverless-code/)
 
-[AWS Documentation: Create a docker image and push Container Image for Amazon ECS](https://docs.aws.amazon.com/AmazonECS/latest/userguide/
-create-container-image.html)
+[AWS Documentation: Create a docker image and push Container Image for AmazonECS](https://docs.aws.amazon.com/AmazonECS/latest/userguide/create-container-imagehtml)
 
 [Run Batch Jobs at Scale with EC2 Spot](https://aws.amazon.com/tutorials/run-batch-jobs-at-scale-with-ec2-spot/)
 

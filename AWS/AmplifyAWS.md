@@ -34,14 +34,20 @@ Monitoring metrics of hosted sites, Creating custom notification if exceeds thre
 [host static website deploy on amplify ](https://aws.amazon.com/getting-started/hands-on/host-static-website/)
 
 creating a basic react app
-```npx create-react-app amplifyapp
+```
+npx create-react-app amplifyapp
 cd amplifyapp
-npm start```
+npm start
+
+```
 
 do it the same folder create git and push to remote 
 
-```git init
+```
+git init
 git remote add origin git@github.com:viveklingireddy/reponame.git
 git add .
 git commit -m “initial commit”
-git push origin main```
+git push origin main
+
+```

@@ -11,8 +11,9 @@ Load Balancers are used to distribute users requests to  the servers equally, Th
 - Usually Companies have larger number of servers, they run application on multiple servers to make globally  available across the regions to users. This arrangement of many servers is  called serverfarm.  
 So When I want to access the Walmart.com, the request from DNS goes to the Load Balancer. It sends to the server that is closer to the region and available. 
 -  
-![LoadBalancer](Images\LoadBalancer.png)  
-[Load Balancing](https://www.cloudflare.com/learning/performance/what-is-load-balancing/)
+![LoadBalancer](Images/LoadBalancer.png)
+  
+![Load Balancing](https://www.cloudflare.com/learning/performance/what-is-load-balancing/)
 
 ### **ApplicationLoadBalancer** 
 ### **Network LoadBalancer**
@@ -30,24 +31,33 @@ So When I want to access the Walmart.com, the request from DNS goes to the Load 
 - A Classic Load Balancer routes traffic to applications in the Amazon EC2-Classic network—a single, flat network that you share with other customers.
 - Setting up the ELB on aws 
 - Create VPC, add 2 public subnets on different regions, create internet gateway and add route table to it  
-- Now create 2 Ec2 instance on both the subnets with user data 
-` #!/bin/bash
+- Now create 2 Ec2 instance on both the subnets with user data
+
+
 
 # Update and install Apache
+
+```bash
+#!/bin/bash
 sudo yum update -y
 sudo yum install httpd -y
 sudo service httpd start
 sudo chkconfig httpd on
 
+
 # Get the instance's hostname and public IP address
+
+```bash
 hostname=$(curl -s http://169.254.169.254/latest/meta-data/hostname)
 public_ip=$(curl -s http://169.254.169.254/latest/meta-data/public-ipv4)
 
+
 # Create an HTML file displaying hostname and IP address
+```bash
 echo "<h1>Hostname: $hostname</h1>" > /var/www/html/index.html
 echo "<p>Public IP Address: $public_ip</p>" >> /var/www/html/index.html
 
-`  
+
 
 ### Target Group 
 - we place all the components inside the vpc into target group so load balancer can transfer to any of them depending on availability. 
@@ -55,18 +65,19 @@ echo "<p>Public IP Address: $public_ip</p>" >> /var/www/html/index.html
 
 USERDATA 
 
-`
+```bash
 sudo apt update -y
 sudo apt install apache2 -y
 echo "<h1>Server Details</h1><p><strong>Hostname:</strong> $(hostname)</p><p><strong>IP Address:</strong> $(hostname -I)</p>" | sudo tee /var/www/html/index.html
 sudo systemctl restart apache2
-`
 
-`#!/bin/bash
+
+```bash
+#!/bin/bash
 yum update -y
 yum install -y httpd
 systemctl start httpd
 systemctl enable httpd
 echo "<h1>Hello World from $(hostname -f)</h1>" > /var/www/html/index.html
-`
+
 
