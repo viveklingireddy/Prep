@@ -51,3 +51,41 @@ git commit -m “initial commit”
 git push origin main
 
 ```
+
+or follow this has main branch
+```bash
+git remote add origin git@github.com:username/reponame.git
+git branch -M main
+git push -u origin main
+```
+
+Once you make changes to code in App.js
+```bash
+git add .
+git commit -m “changes for v2”
+git push origin main
+
+```
+
+Open AWS Amplify click get started build web app, attach the Git repo and build and deploy. The end. 
+
+But if you want to add this to a domain Name here is the process
+ [attach amplify app to domain name](https://docs.aws.amazon.com/amplify/latest/userguide/to-add-a-custom-domain-managed-by-amazon-route-53.html)
+
+ Amplify adds two records automatically that is HTTP, HTTPS records \
+ For Certificates SSL use AWS Certificate Manager
+
+
+Handson Project 2
+Amplify CLI – The Amplify CLI allows you to create, manage, and remove AWS services directly from your terminal.\
+
+We will install Amplify CLI and intialize the app from terminal itself
+
+#### Amplify CLI
+```bash
+npm install -g @aws-amplify/cli
+```
+
+`amplify configure`
+
+[you will create a simple full-stack web application using AWS Amplify](https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/?ref=gsrchandson&id=updated)

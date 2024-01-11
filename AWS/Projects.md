@@ -36,5 +36,6 @@
 
 [PHP with WordPress on Elastic Beanstalk](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/php-hawordpress-tutorial.html)
 
+[references few](https://aws.amazon.com/getting-started/guides/deploy-webapp-decision/?pg=gs&sec=lyfa)
 
-
+[aws lamdba hello word ](https://aws.amazon.com/tutorials/run-serverless-code/)

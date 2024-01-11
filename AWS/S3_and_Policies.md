@@ -26,6 +26,8 @@ In S3, data is stored in buckets. These S3/ buckets are 99.99999999 % durable , 
 Organizations store larger data sets on S3  
 We can host static websites on s3 called static web hoisting
 
+- Newly Directories buckets and new storage type openzone is addedd features.
+
 ### How to Create a bucket 
 
 *Buckets naming shouldn't have underscores, camelcase, caps*, Should be 3-63 char.
@@ -61,6 +63,7 @@ You will also be able to use CloudFormation templates to get started with access
 [Access point through Console ](https://docs.aws.amazon.com/AmazonS3/latest/userguide/access-points-manage.html)
 - bucket policy for static webhoisting enabled 
 
+
 ```{
     "Version": "2012-10-17",
     "Statement": [
@@ -72,3 +75,4 @@ You will also be able to use CloudFormation templates to get started with access
         }
     ]
 }```
+
